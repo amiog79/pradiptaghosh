@@ -2476,7 +2476,7 @@ function drawHand(ctx, pos, length, width) {
 
     <h1>Address</h1>
 
-    <textarea rows="10" cols="80"></textarea>
+    <textarea rows="20" cols="40"></textarea>
 
   <label style="font-size:30px;">Enter Your marks on H.S</label>
   <input type="number" name="">
